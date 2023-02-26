@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente estou aprendendo **AWS, Mulesoft, Cloud**
 
-- 👯 Projeto Web desenvolvido para a disciplina de Programação Web [Programação Web e InterfaceTransportadora](https://github.com/renatoayron/projeto-web)
+- 👯 Projeto Web desenvolvido para a disciplina de Programação Web [Transportadora](https://github.com/renatoayron/projeto-web)
 
 - 💬 Me pergunte sobre **Python, BRM, C, NLP, Java, JavaScript**
 
