@@ -6,7 +6,7 @@
 
 - 🔭 Projeto desenvolvido para a disciplina de Engenharia de Software [ConMat](https://github.com/renatoayron/conmatapp-mvc-desktop)
 
-- 🌱 Atualmente estou aprendendo **AWS, Mulesoft, Cloud**
+- 🌱 Atualmente estou aprendendo **AWS, Generative AI, Cloud e Oracle Infrastructure**
 
 - 👯 Projeto Web desenvolvido para a disciplina de Programação Web [Transportadora](https://github.com/renatoayron/projeto-web)
 
