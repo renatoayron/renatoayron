@@ -8,9 +8,9 @@
 
 - 🌱 Atualmente estou aprendendo **AWS, Generative AI, Cloud e Oracle Infrastructure**
 
-- 👯 Projeto Web desenvolvido para a disciplina de Programação Web [Transportadora](https://github.com/renatoayron/projeto-web)
+- 🚛 Projeto Web desenvolvido para a disciplina de Programação Web [Transportadora](https://github.com/renatoayron/projeto-web)
 
-- 💬 Me pergunte sobre **Python, BRM, C, NLP, Java, JavaScript**
+- 💬 Me pergunte sobre **Python, Oracle BRM, C, Java, JavaScript, NLP**
 
 - 📫 Entre em contato através do e-mail **renatoayron15.2@gmail.com**
 
