@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é Renato Cordeiro 👋</h1>
 <h3 align="center">Sou um desenvolvedor apaixonado por tecnologia, principalmente pela área de dados! 📊</h3>
-<h3 align="center">Atualmente sou Analista Oracle Júnior na Accenture Brasil 💜</h3>
+<h3 align="center">Atualmente sou Analista Oracle BRM na Accenture Brasil 💜</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatoayron&label=Profile%20views&color=0e75b6&style=flat" alt="renatoayron" /> </p>
 
